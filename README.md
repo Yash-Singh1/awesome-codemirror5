@@ -140,6 +140,7 @@ Welcome to the CodeMirror awesome page!
   - [Modelica](https://codemirror.net/mode/modelica/index.html)
   - [MscGen](https://codemirror.net/mode/mscgen/index.html)
   - [MUMPS](https://codemirror.net/mode/mumps/index.html)
+  - [Mustache](https://codemirror.net/demo/mustache.html)
   - [Nginx](https://codemirror.net/mode/nginx/index.html)
   - [NSIS](https://codemirror.net/mode/nsis/index.html)
   - [N-Triples/N-Quads](https://codemirror.net/mode/n-triples/n-quads/index.html)
