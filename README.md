@@ -196,7 +196,7 @@ Welcome to the CodeMirror awesome page!
   - [TTCN Configuration](https://codemirror.net/mode/ttcn-cfg/index.html)
   - [Turtle](https://codemirror.net/mode/turtle/index.html)
   - [Twig](https://codemirror.net/mode/twig/index.html)
-  - [VB.NET](https://codemirror.net/mode/vb.net/index.html)
+  - [VB.NET](https://codemirror.net/mode/vb/index.html)
   - [VBScript](https://codemirror.net/mode/vbscript/index.html)
   - [Velocity](https://codemirror.net/mode/velocity/index.html)
   - [Verilog/SystemVerilog](https://codemirror.net/mode/verilog/systemverilog/index.html)
