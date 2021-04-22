@@ -149,7 +149,7 @@ Welcome to the CodeMirror awesome page!
   - [Octave](https://codemirror.net/mode/octave/index.html)
   - [Oz](https://codemirror.net/mode/oz/index.html)
   - [Pascal](https://codemirror.net/mode/pascal/index.html)
-  - [PEG.js](https://codemirror.net/mode/peg.js/index.html)
+  - [PEG.js](https://codemirror.net/mode/pegjs/index.html)
   - [Perl](https://codemirror.net/mode/perl/index.html)
   - [PGP](https://codemirror.net/mode/pgp/index.html)
   - [PHP](https://codemirror.net/mode/php/index.html)
