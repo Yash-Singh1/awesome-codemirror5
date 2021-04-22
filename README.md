@@ -143,7 +143,7 @@ Welcome to the CodeMirror awesome page!
   - [Mustache](https://codemirror.net/demo/mustache.html)
   - [Nginx](https://codemirror.net/mode/nginx/index.html)
   - [NSIS](https://codemirror.net/mode/nsis/index.html)
-  - [N-Triples/N-Quads](https://codemirror.net/mode/n-triples/n-quads/index.html)
+  - [N-Triples/N-Quads](https://codemirror.net/mode/ntriples/index.html)
   - [Objective C](https://codemirror.net/mode/clike/index.html)
   - [OCaml](https://codemirror.net/mode/mllike/index.html)
   - [Octave](https://codemirror.net/mode/octave/index.html)
