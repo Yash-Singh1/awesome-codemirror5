@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Yash-Singh1/awesome-codemirror/issues"
   },
-  "homepage": "https://github.com/Yash-Singh1/awesome-codemirror#readme"
+  "homepage": "https://github.com/Yash-Singh1/awesome-codemirror#readme",
+  "dependencies": {
+    "markdownlint-cli": "^0.27.1"
+  }
 }
