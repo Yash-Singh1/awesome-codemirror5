@@ -1,0 +1,19 @@
+{
+  "name": "awesome-codemirror",
+  "version": "1.0.0",
+  "description": "Awesome page for CodeMirror",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yash-Singh1/awesome-codemirror.git"
+  },
+  "keywords": [],
+  "author": "Yash Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yash-Singh1/awesome-codemirror/issues"
+  },
+  "homepage": "https://github.com/Yash-Singh1/awesome-codemirror#readme"
+}
