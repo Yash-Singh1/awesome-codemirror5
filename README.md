@@ -2,7 +2,7 @@
   <img src="logo.svg">
 </p>
 
-Welcome to the CodeMirror awesome page!
+Welcome to the CodeMirror 5 awesome page!
 
 ## Contents
 
@@ -12,202 +12,202 @@ Welcome to the CodeMirror awesome page!
 
 ## Addons
 
-- [Built by CodeMirror](https://codemirror.net/doc/manual.html#addons)
-  - [Dialog](https://codemirror.net/doc/manual.html#addon_dialog) - Prompt the user for input in the editor (depends on: dialog.css)
+- [Built by CodeMirror](https://codemirror.net/5/doc/manual.html#addons)
+  - [Dialog](https://codemirror.net/5/doc/manual.html#addon_dialog) - Prompt the user for input in the editor (depends on: dialog.css)
   - Searching
-    - [Searchcursor](https://codemirror.net/demo/search.html) - Implements an API for search/replace
-    - [Search](https://codemirror.net/demo/search.html) - Implements the search commands in the UI (depends on: searchcursor, dialog) (optionally depends on: matchesonscrollbar)
-    - [Jump-to-line](https://codemirror.net/demo/search.html) - Adds in a way in the UI to jump to any line (depends on: dialog)
-    - [Matchesonscrollbar](https://codemirror.net/demo/search.html) - Allow highlighting on search (depends on: annotatescrollbar, matchesonscrollbar.css) (optionally depends on: simplescrollbar)
+    - [Searchcursor](https://codemirror.net/5/demo/search.html) - Implements an API for search/replace
+    - [Search](https://codemirror.net/5/demo/search.html) - Implements the search commands in the UI (depends on: searchcursor, dialog) (optionally depends on: matchesonscrollbar)
+    - [Jump-to-line](https://codemirror.net/5/demo/search.html) - Adds in a way in the UI to jump to any line (depends on: dialog)
+    - [Matchesonscrollbar](https://codemirror.net/5/demo/search.html) - Allow highlighting on search (depends on: annotatescrollbar, matchesonscrollbar.css) (optionally depends on: simplescrollbar)
   - Edit
-    - [Matchbrackets](https://codemirror.net/doc/manual.html#addon_matchbrackets) - Allows to match brackets to identify which ones connect
-    - [Closebrackets](https://codemirror.net/demo/closebrackets.html) - Auto-closes brackets
-    - [Matchtags](https://codemirror.net/demo/matchtags.html) - Allows to match tags to identify which ones connect
-    - [Closetags](https://codemirror.net/demo/closetag.html) - Auto-closes tags
-    - [Trailingspace](https://codemirror.net/demo/trailingspace.html) - Adds a class to any trailing whitespaces
-    - [Continuelist](https://codemirror.net/mode/markdown/index.html) - Continues lists in markdown (depends on: markdown mode)
+    - [Matchbrackets](https://codemirror.net/5/doc/manual.html#addon_matchbrackets) - Allows to match brackets to identify which ones connect
+    - [Closebrackets](https://codemirror.net/5/demo/closebrackets.html) - Auto-closes brackets
+    - [Matchtags](https://codemirror.net/5/demo/matchtags.html) - Allows to match tags to identify which ones connect
+    - [Closetags](https://codemirror.net/5/demo/closetag.html) - Auto-closes tags
+    - [Trailingspace](https://codemirror.net/5/demo/trailingspace.html) - Adds a class to any trailing whitespaces
+    - [Continuelist](https://codemirror.net/5/mode/markdown/index.html) - Continues lists in markdown (depends on: markdown mode)
   - Comment
-    - [Comment](https://codemirror.net/doc/manual.html#addon_comment) - Adds methods to handle comments
-    - [Continuecomments](https://codemirror.net/doc/manual.html#addon_continuecomment) - Continues block and line comments
+    - [Comment](https://codemirror.net/5/doc/manual.html#addon_comment) - Adds methods to handle comments
+    - [Continuecomments](https://codemirror.net/5/doc/manual.html#addon_continuecomment) - Continues block and line comments
   - Display
-    - [Autorefresh](https://codemirror.net/doc/manual.html#addon_autorefresh) - Automatically refreshes the editor
-    - [Fullscreen](https://codemirror.net/demo/fullscreen.html) - Allows to make editor fullscreen (depends on: fullscreen.css)
-    - [Panel](https://codemirror.net/demo/panel.html) - Allows to add in panels above or below the editor
-    - [Placeholder](https://codemirror.net/demo/placeholder.html) - Puts a placeholder on empty editors
-    - [Rulers](https://codemirror.net/demo/rulers.html) - Add styled vertical rulers are certain positions
+    - [Autorefresh](https://codemirror.net/5/doc/manual.html#addon_autorefresh) - Automatically refreshes the editor
+    - [Fullscreen](https://codemirror.net/5/demo/fullscreen.html) - Allows to make editor fullscreen (depends on: fullscreen.css)
+    - [Panel](https://codemirror.net/5/demo/panel.html) - Allows to add in panels above or below the editor
+    - [Placeholder](https://codemirror.net/5/demo/placeholder.html) - Puts a placeholder on empty editors
+    - [Rulers](https://codemirror.net/5/demo/rulers.html) - Add styled vertical rulers are certain positions
   - Fold
-    - [Bracefold](https://codemirror.net/demo/folding.html) - Add ability to fold on braces
-    - [Commentfold](https://codemirror.net/demo/folding.html) - Add ability to fold block comments
-    - [Foldcode](https://codemirror.net/demo/folding.html) - Adds API to fold code
-    - [Foldgutter](https://codemirror.net/demo/folding.html) - Creates markers in the gutter to fold code (depends on: foldgutter.css)
-    - [Indentfold](https://codemirror.net/demo/folding.html) - Folds on indentations
-    - [Markdownfold](https://codemirror.net/demo/folding.html) - Folds markdown
-    - [XMLFold](https://codemirror.net/demo/folding.html) - Folds XML
+    - [Bracefold](https://codemirror.net/5/demo/folding.html) - Add ability to fold on braces
+    - [Commentfold](https://codemirror.net/5/demo/folding.html) - Add ability to fold block comments
+    - [Foldcode](https://codemirror.net/5/demo/folding.html) - Adds API to fold code
+    - [Foldgutter](https://codemirror.net/5/demo/folding.html) - Creates markers in the gutter to fold code (depends on: foldgutter.css)
+    - [Indentfold](https://codemirror.net/5/demo/folding.html) - Folds on indentations
+    - [Markdownfold](https://codemirror.net/5/demo/folding.html) - Folds markdown
+    - [XMLFold](https://codemirror.net/5/demo/folding.html) - Folds XML
   - Hint
-    - [Showhint](https://codemirror.net/demo/complete.html) - Adds the API for showing hints (depends on show-hint.css)
-    - [Anywordhint](https://codemirror.net/doc/manual.html#addon_anyword-hint) - Gives a hint for anyword
-    - [Javascripthint](https://codemirror.net/doc/manual.html#addon_javascript-hint) - Gives hints in Javascript
-    - [HTMLHint](https://codemirror.net/doc/manual.html#addon_html-hint) - Gives hints in HTML
-    - [CSSHint](https://codemirror.net/doc/manual.html#addon_css-hint) - Gives hints in CSS
-    - [SQLHint](https://codemirror.net/doc/manual.html#addon_sql-hint) - Gives hints in SQL
-    - [XMLHint](https://codemirror.net/doc/manual.html#addon_xml-hint) - Gives hints in XML
-  - [Lint](https://codemirror.net/demo/lint.html) - Adds the main linting (depends on: lint.css)
+    - [Showhint](https://codemirror.net/5/demo/complete.html) - Adds the API for showing hints (depends on show-hint.css)
+    - [Anywordhint](https://codemirror.net/5/doc/manual.html#addon_anyword-hint) - Gives a hint for anyword
+    - [Javascripthint](https://codemirror.net/5/doc/manual.html#addon_javascript-hint) - Gives hints in Javascript
+    - [HTMLHint](https://codemirror.net/5/doc/manual.html#addon_html-hint) - Gives hints in HTML
+    - [CSSHint](https://codemirror.net/5/doc/manual.html#addon_css-hint) - Gives hints in CSS
+    - [SQLHint](https://codemirror.net/5/doc/manual.html#addon_sql-hint) - Gives hints in SQL
+    - [XMLHint](https://codemirror.net/5/doc/manual.html#addon_xml-hint) - Gives hints in XML
+  - [Lint](https://codemirror.net/5/demo/lint.html) - Adds the main linting (depends on: lint.css)
     - Linters: HTML, JSON, Javascript, Coffeescript, CSS
-  - [Merge](https://codemirror.net/demo/merge.html) - Shows a merged diff (depends on: merge.css)
+  - [Merge](https://codemirror.net/5/demo/merge.html) - Shows a merged diff (depends on: merge.css)
   - Mode
-    - [Loadmode](https://codemirror.net/demo/loadmode.html) - Lazy-loading a mode
-    - [Multiplex](https://codemirror.net/demo/multiplex.html) - Allow to load multiple modes in one
-    - [Overlay](https://codemirror.net/demo/mustache.html) - Run multiple modes in one, running over the base mode
-    - [Simple](https://codemirror.net/demo/simplemode.html) - Create simple modes with a single object with states, regular expressions, and strings
+    - [Loadmode](https://codemirror.net/5/demo/loadmode.html) - Lazy-loading a mode
+    - [Multiplex](https://codemirror.net/5/demo/multiplex.html) - Allow to load multiple modes in one
+    - [Overlay](https://codemirror.net/5/demo/mustache.html) - Run multiple modes in one, running over the base mode
+    - [Simple](https://codemirror.net/5/demo/simplemode.html) - Create simple modes with a single object with states, regular expressions, and strings
   - Runmode
-    - [Runmode](https://codemirror.net/demo/runmode.html) - Syntax highlight without opening the editor, can be used on server-side
-    - [Colorize](https://codemirror.net/doc/manual.html#addon_colorize) - Simpler way for colorizing in the browser
+    - [Runmode](https://codemirror.net/5/demo/runmode.html) - Syntax highlight without opening the editor, can be used on server-side
+    - [Colorize](https://codemirror.net/5/doc/manual.html#addon_colorize) - Simpler way for colorizing in the browser
   - Scroll
-    - [Annotatescrollbar](https://codemirror.net/doc/manual.html#addon_annotatescrollbar) - Add markers on the scrollbar
-    - [Scrollpastend](https://codemirror.net/doc/manual.html#addon_scrollpastend) - Allow users to scroll deeper than the code
-    - [Simplescrollbars](https://codemirror.net/demo/simplescrollbars.html) - Style the scrollbars
+    - [Annotatescrollbar](https://codemirror.net/5/doc/manual.html#addon_annotatescrollbar) - Add markers on the scrollbar
+    - [Scrollpastend](https://codemirror.net/5/doc/manual.html#addon_scrollpastend) - Allow users to scroll deeper than the code
+    - [Simplescrollbars](https://codemirror.net/5/demo/simplescrollbars.html) - Style the scrollbars
   - Selection
-    - [Active Line](https://codemirror.net/demo/activeline.html) - Highlights active line
-    - [Mark Selection](https://codemirror.net/demo/markselection.html) - Allows to style selected text
-    - [Selection Pointer](https://codemirror.net/mode/htmlmixed/index.html) - Style the pointer on selected text
-  - [Tern](https://codemirror.net/doc/manual.html#addon_tern) - Built in support for [Tern](https://ternjs.net/) into CodeMirror
-  - [Hardwrap](https://codemirror.net/demo/hardwrap.html) - API to hardwrap paragraphs, ranges, etc.
-  - [Vim](https://codemirror.net/doc/manual.html#vimapi) - [Vim](https://www.vim.org/) mode for CodeMirror
+    - [Active Line](https://codemirror.net/5/demo/activeline.html) - Highlights active line
+    - [Mark Selection](https://codemirror.net/5/demo/markselection.html) - Allows to style selected text
+    - [Selection Pointer](https://codemirror.net/5/mode/htmlmixed/index.html) - Style the pointer on selected text
+  - [Tern](https://codemirror.net/5/doc/manual.html#addon_tern) - Built in support for [Tern](https://ternjs.net/) into CodeMirror
+  - [Hardwrap](https://codemirror.net/5/demo/hardwrap.html) - API to hardwrap paragraphs, ranges, etc.
+  - [Vim](https://codemirror.net/5/doc/manual.html#vimapi) - [Vim](https://www.vim.org/) mode for CodeMirror
 
 ## Modes
 
 - Built by CodeMirror
-  - [APL](https://codemirror.net/mode/apl/index.html)
-  - [ASN.1](https://codemirror.net/mode/asn.1/index.html)
-  - [Asterisk dialplan](https://codemirror.net/mode/asterisk/index.html)
-  - [Brainfuck](https://codemirror.net/mode/brainfuck/index.html)
-  - [C, C++, C#](https://codemirror.net/mode/clike/index.html)
-  - [Ceylon](https://codemirror.net/mode/clike/index.html)
-  - [Clojure](https://codemirror.net/mode/clojure/index.html)
-  - [Closure Stylesheets (GSS)](https://codemirror.net/mode/css/gss.html)
-  - [CMake](https://codemirror.net/mode/cmake/index.html)
-  - [COBOL](https://codemirror.net/mode/cobol/index.html)
-  - [CoffeeScript](https://codemirror.net/mode/coffeescript/index.html)
-  - [Common Lisp](https://codemirror.net/mode/commonlisp/index.html)
-  - [Crystal](https://codemirror.net/mode/crystal/index.html)
-  - [CSS](https://codemirror.net/mode/css/index.html)
-  - [Cypher](https://codemirror.net/mode/cypher/index.html)
-  - [Cython](https://codemirror.net/mode/cython/index.html)
-  - [D](https://codemirror.net/mode/d/index.html)
-  - [Dart](https://codemirror.net/mode/dart/index.html)
-  - [Django](https://codemirror.net/mode/django/index.html)
-  - [Dockerfile](https://codemirror.net/mode/dockerfile/index.html)
-  - [diff](https://codemirror.net/mode/diff/index.html)
-  - [DTD](https://codemirror.net/mode/dtd/index.html)
-  - [Dylan](https://codemirror.net/mode/dylan/index.html)
-  - [EBNF](https://codemirror.net/mode/ebnf/index.html)
-  - [ECL](https://codemirror.net/mode/ecl/index.html)
-  - [Eiffel](https://codemirror.net/mode/eiffel/index.html)
-  - [Elixir](https://codemirror.net/mode/elixir/index.html)
-  - [Elm](https://codemirror.net/mode/elm/index.html)
-  - [Erlang](https://codemirror.net/mode/erlang/index.html)
-  - [Factor](https://codemirror.net/mode/factor/index.html)
-  - [FCL](https://codemirror.net/mode/fcl/index.html)
-  - [Forth](https://codemirror.net/mode/forth/index.html)
-  - [Fortran](https://codemirror.net/mode/fortran/index.html)
-  - [F#](https://codemirror.net/mode/mllike/index.html)
-  - [Gas](https://codemirror.net/mode/gas/index.html)
-  - [Gherkin](https://codemirror.net/mode/gherkin/index.html)
-  - [Go](https://codemirror.net/mode/go/index.html)
-  - [Groovy](https://codemirror.net/mode/groovy/index.html)
-  - [HAML](https://codemirror.net/mode/haml/index.html)
-  - [Handlebars](https://codemirror.net/mode/handlebars/index.html)
-  - [Haskell](https://codemirror.net/mode/haskell/index.html)
-  - [Haxe](https://codemirror.net/mode/haxe/index.html)
-  - [HTML embedded](https://codemirror.net/mode/htmlembedded/index.html)
-  - [HTML mixed-mode](https://codemirror.net/mode/htmlmixed/index.html)
-  - [HTTP](https://codemirror.net/mode/http/index.html)
-  - [IDL](https://codemirror.net/mode/idl/index.html)
-  - [Java](https://codemirror.net/mode/java/index.html)
-  - [JavaScript](https://codemirror.net/mode/javascript/index.html)
-  - [Jinja2](https://codemirror.net/mode/jinja2/index.html)
-  - [Julia](https://codemirror.net/mode/julia/index.html)
-  - [Kotlin](https://codemirror.net/mode/kotlin/index.html)
-  - [LESS](https://codemirror.net/mode/less/index.html)
-  - [LiveScript](https://codemirror.net/mode/livescript/index.html)
-  - [Lua](https://codemirror.net/mode/lua/index.html)
-  - [Markdown](https://codemirror.net/mode/markdown/index.html)
-  - [Mathematica](https://codemirror.net/mode/mathematica/index.html)
-  - [mbox](https://codemirror.net/mode/mbox/index.html)
-  - [mIRC](https://codemirror.net/mode/mirc/index.html)
-  - [Modelica](https://codemirror.net/mode/modelica/index.html)
-  - [MscGen](https://codemirror.net/mode/mscgen/index.html)
-  - [MUMPS](https://codemirror.net/mode/mumps/index.html)
-  - [Mustache](https://codemirror.net/demo/mustache.html)
-  - [Nginx](https://codemirror.net/mode/nginx/index.html)
-  - [NSIS](https://codemirror.net/mode/nsis/index.html)
-  - [N-Triples/N-Quads](https://codemirror.net/mode/ntriples/index.html)
-  - [Objective C](https://codemirror.net/mode/clike/index.html)
-  - [OCaml](https://codemirror.net/mode/mllike/index.html)
-  - [Octave](https://codemirror.net/mode/octave/index.html)
-  - [Oz](https://codemirror.net/mode/oz/index.html)
-  - [Pascal](https://codemirror.net/mode/pascal/index.html)
-  - [PEG.js](https://codemirror.net/mode/pegjs/index.html)
-  - [Perl](https://codemirror.net/mode/perl/index.html)
-  - [PGP](https://codemirror.net/mode/pgp/index.html)
-  - [PHP](https://codemirror.net/mode/php/index.html)
-  - [Pig Latin](https://codemirror.net/mode/pig/index.html)
-  - [PowerShell](https://codemirror.net/mode/powershell/index.html)
-  - [Properties files](https://codemirror.net/mode/properties/index.html)
-  - [ProtoBuf](https://codemirror.net/mode/protobuf/index.html)
-  - [Pug](https://codemirror.net/mode/pug/index.html)
-  - [Puppet](https://codemirror.net/mode/puppet/index.html)
-  - [Python](https://codemirror.net/mode/python/index.html)
-  - [Q](https://codemirror.net/mode/q/index.html)
-  - [R](https://codemirror.net/mode/r/index.html)
-  - [RPM](https://codemirror.net/mode/rpm/index.html)
-  - [reStructuredText](https://codemirror.net/mode/restructuredtext/index.html)
-  - [Ruby](https://codemirror.net/mode/ruby/index.html)
-  - [Rust](https://codemirror.net/mode/rust/index.html)
-  - [SAS](https://codemirror.net/mode/sas/index.html)
-  - [Sass](https://codemirror.net/mode/sass/index.html)
-  - [Spreadsheet](https://codemirror.net/mode/spreadsheet/index.html)
-  - [Scala](https://codemirror.net/mode/scala/index.html)
-  - [Scheme](https://codemirror.net/mode/scheme/index.html)
-  - [SCSS](https://codemirror.net/mode/scss/index.html)
-  - [Shell](https://codemirror.net/mode/shell/index.html)
-  - [Sieve](https://codemirror.net/mode/sieve/index.html)
-  - [Slim](https://codemirror.net/mode/slim/index.html)
-  - [Smalltalk](https://codemirror.net/mode/smalltalk/index.html)
-  - [Smarty](https://codemirror.net/mode/smarty/index.html)
-  - [Solr](https://codemirror.net/mode/solr/index.html)
-  - [Soy](https://codemirror.net/mode/soy/index.html)
-  - [Stylus](https://codemirror.net/mode/stylus/index.html)
-  - [SQL](https://codemirror.net/mode/sql/index.html)
-  - [SPARQL](https://codemirror.net/mode/sparql/index.html)
-  - [Squirrel](https://codemirror.net/mode/squirrel/index.html)
-  - [Swift](https://codemirror.net/mode/swift/index.html)
-  - [sTeX, LaTeX](https://codemirror.net/mode/stex/index.html)
-  - [Tcl](https://codemirror.net/mode/tcl/index.html)
-  - [Textile](https://codemirror.net/mode/textile/index.html)
-  - [Tiddlywiki](https://codemirror.net/mode/tiddlywiki/index.html)
-  - [Tiki wiki](https://codemirror.net/mode/tiki/index.html)
-  - [TOML](https://codemirror.net/mode/toml/index.html)
-  - [Tornado](https://codemirror.net/mode/tornado/index.html)
-  - [troff](https://codemirror.net/mode/troff/index.html)
-  - [TTCN](https://codemirror.net/mode/ttcn/index.html)
-  - [TTCN Configuration](https://codemirror.net/mode/ttcn-cfg/index.html)
-  - [Turtle](https://codemirror.net/mode/turtle/index.html)
-  - [Twig](https://codemirror.net/mode/twig/index.html)
-  - [VB.NET](https://codemirror.net/mode/vb/index.html)
-  - [VBScript](https://codemirror.net/mode/vbscript/index.html)
-  - [Velocity](https://codemirror.net/mode/velocity/index.html)
-  - [Verilog/SystemVerilog](https://codemirror.net/mode/verilog/index.html)
-  - [VHDL](https://codemirror.net/mode/vhdl/index.html)
-  - [Vue.js app](https://codemirror.net/mode/vue/index.html)
-  - [Web IDL](https://codemirror.net/mode/webidl/index.html)
-  - [WebAssembly Text Format](https://codemirror.net/mode/wast/index.html)
-  - [XML/HTML](https://codemirror.net/mode/xml/index.html)
-  - [XQuery](https://codemirror.net/mode/xquery/index.html)
-  - [Yacas](https://codemirror.net/mode/yacas/index.html)
-  - [YAML](https://codemirror.net/mode/yaml/index.html)
-  - [YAML frontmatter](https://codemirror.net/mode/yaml-frontmatter/index.html)
-  - [Z80](https://codemirror.net/mode/z80/index.html)
+  - [APL](https://codemirror.net/5/mode/apl/index.html)
+  - [ASN.1](https://codemirror.net/5/mode/asn.1/index.html)
+  - [Asterisk dialplan](https://codemirror.net/5/mode/asterisk/index.html)
+  - [Brainfuck](https://codemirror.net/5/mode/brainfuck/index.html)
+  - [C, C++, C#](https://codemirror.net/5/mode/clike/index.html)
+  - [Ceylon](https://codemirror.net/5/mode/clike/index.html)
+  - [Clojure](https://codemirror.net/5/mode/clojure/index.html)
+  - [Closure Stylesheets (GSS)](https://codemirror.net/5/mode/css/gss.html)
+  - [CMake](https://codemirror.net/5/mode/cmake/index.html)
+  - [COBOL](https://codemirror.net/5/mode/cobol/index.html)
+  - [CoffeeScript](https://codemirror.net/5/mode/coffeescript/index.html)
+  - [Common Lisp](https://codemirror.net/5/mode/commonlisp/index.html)
+  - [Crystal](https://codemirror.net/5/mode/crystal/index.html)
+  - [CSS](https://codemirror.net/5/mode/css/index.html)
+  - [Cypher](https://codemirror.net/5/mode/cypher/index.html)
+  - [Cython](https://codemirror.net/5/mode/cython/index.html)
+  - [D](https://codemirror.net/5/mode/d/index.html)
+  - [Dart](https://codemirror.net/5/mode/dart/index.html)
+  - [Django](https://codemirror.net/5/mode/django/index.html)
+  - [Dockerfile](https://codemirror.net/5/mode/dockerfile/index.html)
+  - [diff](https://codemirror.net/5/mode/diff/index.html)
+  - [DTD](https://codemirror.net/5/mode/dtd/index.html)
+  - [Dylan](https://codemirror.net/5/mode/dylan/index.html)
+  - [EBNF](https://codemirror.net/5/mode/ebnf/index.html)
+  - [ECL](https://codemirror.net/5/mode/ecl/index.html)
+  - [Eiffel](https://codemirror.net/5/mode/eiffel/index.html)
+  - [Elixir](https://codemirror.net/5/mode/elixir/index.html)
+  - [Elm](https://codemirror.net/5/mode/elm/index.html)
+  - [Erlang](https://codemirror.net/5/mode/erlang/index.html)
+  - [Factor](https://codemirror.net/5/mode/factor/index.html)
+  - [FCL](https://codemirror.net/5/mode/fcl/index.html)
+  - [Forth](https://codemirror.net/5/mode/forth/index.html)
+  - [Fortran](https://codemirror.net/5/mode/fortran/index.html)
+  - [F#](https://codemirror.net/5/mode/mllike/index.html)
+  - [Gas](https://codemirror.net/5/mode/gas/index.html)
+  - [Gherkin](https://codemirror.net/5/mode/gherkin/index.html)
+  - [Go](https://codemirror.net/5/mode/go/index.html)
+  - [Groovy](https://codemirror.net/5/mode/groovy/index.html)
+  - [HAML](https://codemirror.net/5/mode/haml/index.html)
+  - [Handlebars](https://codemirror.net/5/mode/handlebars/index.html)
+  - [Haskell](https://codemirror.net/5/mode/haskell/index.html)
+  - [Haxe](https://codemirror.net/5/mode/haxe/index.html)
+  - [HTML embedded](https://codemirror.net/5/mode/htmlembedded/index.html)
+  - [HTML mixed-mode](https://codemirror.net/5/mode/htmlmixed/index.html)
+  - [HTTP](https://codemirror.net/5/mode/http/index.html)
+  - [IDL](https://codemirror.net/5/mode/idl/index.html)
+  - [Java](https://codemirror.net/5/mode/java/index.html)
+  - [JavaScript](https://codemirror.net/5/mode/javascript/index.html)
+  - [Jinja2](https://codemirror.net/5/mode/jinja2/index.html)
+  - [Julia](https://codemirror.net/5/mode/julia/index.html)
+  - [Kotlin](https://codemirror.net/5/mode/kotlin/index.html)
+  - [LESS](https://codemirror.net/5/mode/less/index.html)
+  - [LiveScript](https://codemirror.net/5/mode/livescript/index.html)
+  - [Lua](https://codemirror.net/5/mode/lua/index.html)
+  - [Markdown](https://codemirror.net/5/mode/markdown/index.html)
+  - [Mathematica](https://codemirror.net/5/mode/mathematica/index.html)
+  - [mbox](https://codemirror.net/5/mode/mbox/index.html)
+  - [mIRC](https://codemirror.net/5/mode/mirc/index.html)
+  - [Modelica](https://codemirror.net/5/mode/modelica/index.html)
+  - [MscGen](https://codemirror.net/5/mode/mscgen/index.html)
+  - [MUMPS](https://codemirror.net/5/mode/mumps/index.html)
+  - [Mustache](https://codemirror.net/5/demo/mustache.html)
+  - [Nginx](https://codemirror.net/5/mode/nginx/index.html)
+  - [NSIS](https://codemirror.net/5/mode/nsis/index.html)
+  - [N-Triples/N-Quads](https://codemirror.net/5/mode/ntriples/index.html)
+  - [Objective C](https://codemirror.net/5/mode/clike/index.html)
+  - [OCaml](https://codemirror.net/5/mode/mllike/index.html)
+  - [Octave](https://codemirror.net/5/mode/octave/index.html)
+  - [Oz](https://codemirror.net/5/mode/oz/index.html)
+  - [Pascal](https://codemirror.net/5/mode/pascal/index.html)
+  - [PEG.js](https://codemirror.net/5/mode/pegjs/index.html)
+  - [Perl](https://codemirror.net/5/mode/perl/index.html)
+  - [PGP](https://codemirror.net/5/mode/pgp/index.html)
+  - [PHP](https://codemirror.net/5/mode/php/index.html)
+  - [Pig Latin](https://codemirror.net/5/mode/pig/index.html)
+  - [PowerShell](https://codemirror.net/5/mode/powershell/index.html)
+  - [Properties files](https://codemirror.net/5/mode/properties/index.html)
+  - [ProtoBuf](https://codemirror.net/5/mode/protobuf/index.html)
+  - [Pug](https://codemirror.net/5/mode/pug/index.html)
+  - [Puppet](https://codemirror.net/5/mode/puppet/index.html)
+  - [Python](https://codemirror.net/5/mode/python/index.html)
+  - [Q](https://codemirror.net/5/mode/q/index.html)
+  - [R](https://codemirror.net/5/mode/r/index.html)
+  - [RPM](https://codemirror.net/5/mode/rpm/index.html)
+  - [reStructuredText](https://codemirror.net/5/mode/restructuredtext/index.html)
+  - [Ruby](https://codemirror.net/5/mode/ruby/index.html)
+  - [Rust](https://codemirror.net/5/mode/rust/index.html)
+  - [SAS](https://codemirror.net/5/mode/sas/index.html)
+  - [Sass](https://codemirror.net/5/mode/sass/index.html)
+  - [Spreadsheet](https://codemirror.net/5/mode/spreadsheet/index.html)
+  - [Scala](https://codemirror.net/5/mode/scala/index.html)
+  - [Scheme](https://codemirror.net/5/mode/scheme/index.html)
+  - [SCSS](https://codemirror.net/5/mode/scss/index.html)
+  - [Shell](https://codemirror.net/5/mode/shell/index.html)
+  - [Sieve](https://codemirror.net/5/mode/sieve/index.html)
+  - [Slim](https://codemirror.net/5/mode/slim/index.html)
+  - [Smalltalk](https://codemirror.net/5/mode/smalltalk/index.html)
+  - [Smarty](https://codemirror.net/5/mode/smarty/index.html)
+  - [Solr](https://codemirror.net/5/mode/solr/index.html)
+  - [Soy](https://codemirror.net/5/mode/soy/index.html)
+  - [Stylus](https://codemirror.net/5/mode/stylus/index.html)
+  - [SQL](https://codemirror.net/5/mode/sql/index.html)
+  - [SPARQL](https://codemirror.net/5/mode/sparql/index.html)
+  - [Squirrel](https://codemirror.net/5/mode/squirrel/index.html)
+  - [Swift](https://codemirror.net/5/mode/swift/index.html)
+  - [sTeX, LaTeX](https://codemirror.net/5/mode/stex/index.html)
+  - [Tcl](https://codemirror.net/5/mode/tcl/index.html)
+  - [Textile](https://codemirror.net/5/mode/textile/index.html)
+  - [Tiddlywiki](https://codemirror.net/5/mode/tiddlywiki/index.html)
+  - [Tiki wiki](https://codemirror.net/5/mode/tiki/index.html)
+  - [TOML](https://codemirror.net/5/mode/toml/index.html)
+  - [Tornado](https://codemirror.net/5/mode/tornado/index.html)
+  - [troff](https://codemirror.net/5/mode/troff/index.html)
+  - [TTCN](https://codemirror.net/5/mode/ttcn/index.html)
+  - [TTCN Configuration](https://codemirror.net/5/mode/ttcn-cfg/index.html)
+  - [Turtle](https://codemirror.net/5/mode/turtle/index.html)
+  - [Twig](https://codemirror.net/5/mode/twig/index.html)
+  - [VB.NET](https://codemirror.net/5/mode/vb/index.html)
+  - [VBScript](https://codemirror.net/5/mode/vbscript/index.html)
+  - [Velocity](https://codemirror.net/5/mode/velocity/index.html)
+  - [Verilog/SystemVerilog](https://codemirror.net/5/mode/verilog/index.html)
+  - [VHDL](https://codemirror.net/5/mode/vhdl/index.html)
+  - [Vue.js app](https://codemirror.net/5/mode/vue/index.html)
+  - [Web IDL](https://codemirror.net/5/mode/webidl/index.html)
+  - [WebAssembly Text Format](https://codemirror.net/5/mode/wast/index.html)
+  - [XML/HTML](https://codemirror.net/5/mode/xml/index.html)
+  - [XQuery](https://codemirror.net/5/mode/xquery/index.html)
+  - [Yacas](https://codemirror.net/5/mode/yacas/index.html)
+  - [YAML](https://codemirror.net/5/mode/yaml/index.html)
+  - [YAML frontmatter](https://codemirror.net/5/mode/yaml-frontmatter/index.html)
+  - [Z80](https://codemirror.net/5/mode/z80/index.html)
 - [RandomGen](https://github.com/Yash-Singh1/codemirror-mode-randomgen)
 - [GraphQL](https://github.com/graphql/graphiql/tree/main/packages/codemirror-graphql)
 - [Liquid](https://github.com/axtro/codemirror_liquid_mode)
@@ -221,69 +221,69 @@ Welcome to the CodeMirror awesome page!
 ## Themes
 
 - Built by CodeMirror
-  - [3024-day](https://codemirror.net/demo/theme.html#3024-day)
-  - [3024-night](https://codemirror.net/demo/theme.html#3024-night)
-  - [abcdef](https://codemirror.net/demo/theme.html#abcdef)
-  - [ambiance-mobile](https://codemirror.net/demo/theme.html#ambiance-mobile)
-  - [ambiance](https://codemirror.net/demo/theme.html#ambiance)
-  - [ayu-dark](https://codemirror.net/demo/theme.html#ayu-dark)
-  - [ayu-mirage](https://codemirror.net/demo/theme.html#ayu-mirage)
-  - [base16-dark](https://codemirror.net/demo/theme.html#base16-dark)
-  - [base16-light](https://codemirror.net/demo/theme.html#base16-light)
-  - [bespin](https://codemirror.net/demo/theme.html#bespin)
-  - [blackboard](https://codemirror.net/demo/theme.html#blackboard)
-  - [cobalt](https://codemirror.net/demo/theme.html#cobalt)
-  - [colorforth](https://codemirror.net/demo/theme.html#colorforth)
-  - [darcula](https://codemirror.net/demo/theme.html#darcula)
-  - [dracula](https://codemirror.net/demo/theme.html#dracula)
-  - [duotone-dark](https://codemirror.net/demo/theme.html#duotone-dark)
-  - [duotone-light](https://codemirror.net/demo/theme.html#duotone-light)
-  - [eclipse](https://codemirror.net/demo/theme.html#eclipse)
-  - [elegant](https://codemirror.net/demo/theme.html#elegant)
-  - [erlang-dark](https://codemirror.net/demo/theme.html#erlang-dark)
-  - [gruvbox-dark](https://codemirror.net/demo/theme.html#gruvbox-dark)
-  - [hopscotch](https://codemirror.net/demo/theme.html#hopscotch)
-  - [icecoder](https://codemirror.net/demo/theme.html#icecoder)
-  - [idea](https://codemirror.net/demo/theme.html#idea)
-  - [isotope](https://codemirror.net/demo/theme.html#isotope)
-  - [lesser-dark](https://codemirror.net/demo/theme.html#lesser-dark)
-  - [liquibyte](https://codemirror.net/demo/theme.html#liquibyte)
-  - [lucario](https://codemirror.net/demo/theme.html#lucario)
-  - [material-darker](https://codemirror.net/demo/theme.html#material-darker)
-  - [material-ocean](https://codemirror.net/demo/theme.html#material-ocean)
-  - [material-palenight](https://codemirror.net/demo/theme.html#material-palenight)
-  - [material](https://codemirror.net/demo/theme.html#material)
-  - [mbo](https://codemirror.net/demo/theme.html#mbo)
-  - [mdn-like](https://codemirror.net/demo/theme.html#mdn-like)
-  - [midnight](https://codemirror.net/demo/theme.html#midnight)
-  - [monokai](https://codemirror.net/demo/theme.html#monokai)
-  - [moxer](https://codemirror.net/demo/theme.html#moxer)
-  - [neat](https://codemirror.net/demo/theme.html#neat)
-  - [neo](https://codemirror.net/demo/theme.html#neo)
-  - [night](https://codemirror.net/demo/theme.html#night)
-  - [nord](https://codemirror.net/demo/theme.html#nord)
-  - [oceanic-next](https://codemirror.net/demo/theme.html#oceanic-next)
-  - [panda-syntax](https://codemirror.net/demo/theme.html#panda-syntax)
-  - [paraiso-dark](https://codemirror.net/demo/theme.html#paraiso-dark)
-  - [paraiso-light](https://codemirror.net/demo/theme.html#paraiso-light)
-  - [pastel-on-dark](https://codemirror.net/demo/theme.html#pastel-on-dark)
-  - [railscasts](https://codemirror.net/demo/theme.html#railscasts)
-  - [rubyblue](https://codemirror.net/demo/theme.html#rubyblue)
-  - [seti](https://codemirror.net/demo/theme.html#seti)
-  - [shadowfox](https://codemirror.net/demo/theme.html#shadowfox)
-  - [solarized](https://codemirror.net/demo/theme.html#solarized)
-  - [ssms](https://codemirror.net/demo/theme.html#ssms)
-  - [the-matrix](https://codemirror.net/demo/theme.html#the-matrix)
-  - [tomorrow-night-bright](https://codemirror.net/demo/theme.html#tomorrow-night-bright)
-  - [tomorrow-night-eighties](https://codemirror.net/demo/theme.html#tomorrow-night-eighties)
-  - [ttcn](https://codemirror.net/demo/theme.html#ttcn)
-  - [twilight](https://codemirror.net/demo/theme.html#twilight)
-  - [vibrant-ink](https://codemirror.net/demo/theme.html#vibrant-ink)
-  - [xq-dark](https://codemirror.net/demo/theme.html#xq-dark)
-  - [xq-light](https://codemirror.net/demo/theme.html#xq-light)
-  - [yeti](https://codemirror.net/demo/theme.html#yeti)
-  - [yonce](https://codemirror.net/demo/theme.html#yonce)
-  - [zenburn](https://codemirror.net/demo/theme.html#zenburn)
+  - [3024-day](https://codemirror.net/5/demo/theme.html#3024-day)
+  - [3024-night](https://codemirror.net/5/demo/theme.html#3024-night)
+  - [abcdef](https://codemirror.net/5/demo/theme.html#abcdef)
+  - [ambiance-mobile](https://codemirror.net/5/demo/theme.html#ambiance-mobile)
+  - [ambiance](https://codemirror.net/5/demo/theme.html#ambiance)
+  - [ayu-dark](https://codemirror.net/5/demo/theme.html#ayu-dark)
+  - [ayu-mirage](https://codemirror.net/5/demo/theme.html#ayu-mirage)
+  - [base16-dark](https://codemirror.net/5/demo/theme.html#base16-dark)
+  - [base16-light](https://codemirror.net/5/demo/theme.html#base16-light)
+  - [bespin](https://codemirror.net/5/demo/theme.html#bespin)
+  - [blackboard](https://codemirror.net/5/demo/theme.html#blackboard)
+  - [cobalt](https://codemirror.net/5/demo/theme.html#cobalt)
+  - [colorforth](https://codemirror.net/5/demo/theme.html#colorforth)
+  - [darcula](https://codemirror.net/5/demo/theme.html#darcula)
+  - [dracula](https://codemirror.net/5/demo/theme.html#dracula)
+  - [duotone-dark](https://codemirror.net/5/demo/theme.html#duotone-dark)
+  - [duotone-light](https://codemirror.net/5/demo/theme.html#duotone-light)
+  - [eclipse](https://codemirror.net/5/demo/theme.html#eclipse)
+  - [elegant](https://codemirror.net/5/demo/theme.html#elegant)
+  - [erlang-dark](https://codemirror.net/5/demo/theme.html#erlang-dark)
+  - [gruvbox-dark](https://codemirror.net/5/demo/theme.html#gruvbox-dark)
+  - [hopscotch](https://codemirror.net/5/demo/theme.html#hopscotch)
+  - [icecoder](https://codemirror.net/5/demo/theme.html#icecoder)
+  - [idea](https://codemirror.net/5/demo/theme.html#idea)
+  - [isotope](https://codemirror.net/5/demo/theme.html#isotope)
+  - [lesser-dark](https://codemirror.net/5/demo/theme.html#lesser-dark)
+  - [liquibyte](https://codemirror.net/5/demo/theme.html#liquibyte)
+  - [lucario](https://codemirror.net/5/demo/theme.html#lucario)
+  - [material-darker](https://codemirror.net/5/demo/theme.html#material-darker)
+  - [material-ocean](https://codemirror.net/5/demo/theme.html#material-ocean)
+  - [material-palenight](https://codemirror.net/5/demo/theme.html#material-palenight)
+  - [material](https://codemirror.net/5/demo/theme.html#material)
+  - [mbo](https://codemirror.net/5/demo/theme.html#mbo)
+  - [mdn-like](https://codemirror.net/5/demo/theme.html#mdn-like)
+  - [midnight](https://codemirror.net/5/demo/theme.html#midnight)
+  - [monokai](https://codemirror.net/5/demo/theme.html#monokai)
+  - [moxer](https://codemirror.net/5/demo/theme.html#moxer)
+  - [neat](https://codemirror.net/5/demo/theme.html#neat)
+  - [neo](https://codemirror.net/5/demo/theme.html#neo)
+  - [night](https://codemirror.net/5/demo/theme.html#night)
+  - [nord](https://codemirror.net/5/demo/theme.html#nord)
+  - [oceanic-next](https://codemirror.net/5/demo/theme.html#oceanic-next)
+  - [panda-syntax](https://codemirror.net/5/demo/theme.html#panda-syntax)
+  - [paraiso-dark](https://codemirror.net/5/demo/theme.html#paraiso-dark)
+  - [paraiso-light](https://codemirror.net/5/demo/theme.html#paraiso-light)
+  - [pastel-on-dark](https://codemirror.net/5/demo/theme.html#pastel-on-dark)
+  - [railscasts](https://codemirror.net/5/demo/theme.html#railscasts)
+  - [rubyblue](https://codemirror.net/5/demo/theme.html#rubyblue)
+  - [seti](https://codemirror.net/5/demo/theme.html#seti)
+  - [shadowfox](https://codemirror.net/5/demo/theme.html#shadowfox)
+  - [solarized](https://codemirror.net/5/demo/theme.html#solarized)
+  - [ssms](https://codemirror.net/5/demo/theme.html#ssms)
+  - [the-matrix](https://codemirror.net/5/demo/theme.html#the-matrix)
+  - [tomorrow-night-bright](https://codemirror.net/5/demo/theme.html#tomorrow-night-bright)
+  - [tomorrow-night-eighties](https://codemirror.net/5/demo/theme.html#tomorrow-night-eighties)
+  - [ttcn](https://codemirror.net/5/demo/theme.html#ttcn)
+  - [twilight](https://codemirror.net/5/demo/theme.html#twilight)
+  - [vibrant-ink](https://codemirror.net/5/demo/theme.html#vibrant-ink)
+  - [xq-dark](https://codemirror.net/5/demo/theme.html#xq-dark)
+  - [xq-light](https://codemirror.net/5/demo/theme.html#xq-light)
+  - [yeti](https://codemirror.net/5/demo/theme.html#yeti)
+  - [yonce](https://codemirror.net/5/demo/theme.html#yonce)
+  - [zenburn](https://codemirror.net/5/demo/theme.html#zenburn)
 - [`code-mirror-themes`](https://github.com/FarhadG/code-mirror-themes)
   - [all-hallow-eve](https://github.com/FarhadG/code-mirror-themes/blob/master/themes/all-hallow-eve.css)
   - [amy](https://github.com/FarhadG/code-mirror-themes/blob/master/themes/amy.css)
